@@ -1,0 +1,1 @@
+web: gunicorn project-recipe.wcgi --log-file - log-level debug
