@@ -132,7 +132,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+# .env прибрано щоб можна було його показати в лабі
 .venv
 env/
 venv/
